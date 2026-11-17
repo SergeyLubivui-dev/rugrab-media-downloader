@@ -4,7 +4,7 @@
 
 RuGrab is a free video and audio downloader for Windows, macOS, and Android. Paste a link, choose from the available formats, and save media for offline use.
 
-**[Visit the website](https://rugrab.ru/)** · **[Downloads](https://rugrab.ru/releases/)** · **[Report a problem](../../issues/new/choose)**
+**[RuGrab.com](https://rugrab.com/)** · **[RuGrab.ru](https://rugrab.ru/)** · **[Downloads](https://rugrab.ru/releases/)** · **[Report a problem](../../issues/new/choose)**
 
 ## One link. A few clicks. Done.
 
