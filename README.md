@@ -31,6 +31,8 @@ RuGrab is built around a custom download engine developed by our team. It brings
 
 Learn more in [Technology](docs/TECHNOLOGY.md).
 
+See [Specifications](specifications/README.md) for supported sources, output formats, and download speed.
+
 ## Community
 
 Have a bug report or an idea? [Open an issue](../../issues/new/choose). Please include your operating system, app version, and steps to reproduce the problem. Don't share passwords, access tokens, private links, or personal information.
