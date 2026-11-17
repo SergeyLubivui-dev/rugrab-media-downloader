@@ -1,0 +1,10 @@
+name: Feature request
+description: Share an idea for RuGrab.
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: Describe the problem you want to solve and your idea.
+    validations:
+      required: true
