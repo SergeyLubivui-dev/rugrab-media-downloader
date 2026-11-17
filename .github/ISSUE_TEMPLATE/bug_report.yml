@@ -1,0 +1,31 @@
+name: Bug report
+description: Tell us about a problem with the free RuGrab app.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Please do not include passwords, tokens, private links, or other personal information.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Windows
+        - macOS
+        - Android
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version
+      placeholder: e.g. 1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What happened?
+      description: Include the steps to reproduce the problem and what you expected to happen.
+    validations:
+      required: true
